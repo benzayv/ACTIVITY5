@@ -1,5 +1,5 @@
 # ACTIVITY5
-<!DOCTYPE html>
+
 <html>
 <head>
 	<title>START ATTRIBUTE COMBINATION OF FICTION AND NON-FICTION,START WITH NUMBER 20-54</title>
@@ -134,7 +134,7 @@
 
 
 
-</head>
+
 <body>
 	<h1>Non-Fictional Book Order List</h1>
 	<hr>
